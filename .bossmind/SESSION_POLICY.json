@@ -1,0 +1,7 @@
+{
+  "projectId": "global-stock",
+  "deltaOnly": true,
+  "blockExternalChatGptUi": true,
+  "modelStatementIsNotProof": true,
+  "requireValidationBeforeComplete": true
+}
